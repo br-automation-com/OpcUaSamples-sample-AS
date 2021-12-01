@@ -1,4 +1,4 @@
-# OpcUaSamples-sample-AS
+# OpcUaSamples
 Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
 
 ## Table of Contents
