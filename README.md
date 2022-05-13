@@ -47,7 +47,7 @@ Implemented use cases in latest version:
   Applicative management of certificates at runtime
    * Wrapping library functions with OpcUa methods (AS4.6)
   
-  BrbLibUa (AS4.9)
+  BrbLibUa V1.01 (AS4.10)
    * Library with useful functions around OpcUa including wrappers for server and client to reduce code enormously
  
 <a name="Releases"></a>
