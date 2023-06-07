@@ -22,6 +22,7 @@ Implemented use cases in latest version:
    * Dynamic arrays (AS4.6)
    * Localization of texts (AS4.6)
    * Import of a foreign address space model (AS4.6, AS4.7)
+   * Handling of 64-Bit datatypes Uint64 + Int64 (AS4.10)
    * etc...
   
   Library client
@@ -34,6 +35,7 @@ Implemented use cases in latest version:
    * Several subscriptions for monitored items (AS4.1)
    * Calling of methods (AS4.3)
    * Receiving events (AS4.6)
+   * Reading and Subscribing of Server info and diagnosis datapoints (AS4.10)
    * etc...
   
   OpcUa-Any-Client
@@ -47,7 +49,7 @@ Implemented use cases in latest version:
   Applicative management of certificates at runtime
    * Wrapping library functions with OpcUa methods (AS4.6)
   
-  BrbLibUa V1.01 (contained in sample for AS4.10)
+  BrbLibUa V1.02 (contained in sample for AS4.10)
    * Library with useful functions around OpcUa including wrappers for server and client to reduce code enormously
  
 <a name="Releases"></a>
@@ -74,3 +76,5 @@ Implemented use cases in latest version:
 [**Release for Automation Studio 4.9 (+BrbLibUa)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2021-09-14_OpcUaSample49_BrbLibUa.zip)
 
 [**Release for Automation Studio 4.10 (+BrbLibUa V1.01)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2022-05-13_OpcUaSample410_BrbLibUa1.01.zip)
+
+[**Release for Automation Studio 4.10 (+BrbLibUa V1.02)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2023-06-07_OpcUaSample410_BrbLibUa1.02.zip)
