@@ -49,7 +49,7 @@ Implemented use cases in latest version:
   Applicative management of certificates at runtime
    * Wrapping library functions with OpcUa methods (AS4.6)
   
-  BrbLibUa V1.02 (contained in sample for AS4.10)
+  BrbLibUa V1.03 (contained in sample for AS4.10)
    * Library with useful functions around OpcUa including wrappers for server and client to reduce code enormously
  
 <a name="Releases"></a>
@@ -78,3 +78,5 @@ Implemented use cases in latest version:
 [**Release for Automation Studio 4.10 (+BrbLibUa V1.01)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/raw/main/2022-05-13_OpcUaSample410_BrbLibUa1.01.zip)
 
 [**Release for Automation Studio 4.10 (+BrbLibUa V1.02)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2023-06-07_OpcUaSample410_BrbLibUa1.02.zip)
+
+[**Release for Automation Studio 4.10 (+BrbLibUa V1.03)**](https://github.com/br-automation-com/OpcUaSamples-sample-AS/blob/main/2024-02-22_OpcUaSample410_BrbLibUa1.03.zip)
